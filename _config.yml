@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiwen Zhao 赵记稳 - 个人简历"
-description              : "Ph.D Student in UCAS"
+title                    : "Jiwen Zhao - 赵记稳"
+description              : "Ph.D Student in University of Chinese Academy of Sciences"
 repository               : "CropCoder/CropCoder.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,25 +23,25 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiwen Zhao"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "NWAFU & CAS"
-  location         : "Shannxi, China"
-  employer         :  "YaZhouBay"
-  pubmed           :  "Google"
+  avatar           : "images/zhaojiwen.jpg"
+  bio              : "Yazhouwan National Laboratory"
+  location         : "Sanya , China"
+  # employer         :  "YaZhouBay"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Zhao+J&cauthor_id=39429882"
   googlescholar    : "https://scholar.google.com/citations?user=wOeWxxUAAAAJ"
-  email            : "admin@filll.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  email            : "Jiwen@filll.cn"
+  researchgate     : "https://www.researchgate.net/profile/Jiwen-Zhao-3"
   uri              : "www.filll.cn"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "filll"
+  facebook         : 
   foursquare       :
-  github           : "github CropCoder"
+  github           : "https://github.com/CropCoder"
   google_plus      :
   keybase          :
-  instagram        : "filll"
+  instagram        : 
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
@@ -54,7 +54,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            : "filll"
+  weibo            : 
   xing             :
   youtube          :
   wikipedia        :
