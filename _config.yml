@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiwen Zhao 赵记稳"
-description              : "Personal CV"
+title                    : "Jiwen Zhao 赵记稳 - 个人简历"
+description              : "Ph.D Student in UCAS"
 repository               : "CropCoder/CropCoder.github.io"
 google_scholar_stats_use_cdn : true
 
