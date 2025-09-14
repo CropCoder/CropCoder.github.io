@@ -1,3 +1,15 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /life/
+  - /life.html
+---
+
+
+
 # 赵记稳-20250716-工作总结报告
 
 > 摘要：
