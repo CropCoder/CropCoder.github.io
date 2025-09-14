@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiwen Zhao - 赵记稳"
-description              : "Ph.D Student in University of Chinese Academy of Sciences"
+description              : "Ph.D Student in UCAS"
 repository               : "CropCoder/CropCoder.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,21 +24,21 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiwen Zhao"
   avatar           : "images/zhaojiwen.jpg"
-  bio              : "Yazhouwan National Laboratory"
+  bio              : "Yazhouwan National Laboratory（YNL）"
   location         : "Sanya , China"
   # employer         :  "YaZhouBay"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Zhao+J&cauthor_id=39429882"
   googlescholar    : "https://scholar.google.com/citations?user=wOeWxxUAAAAJ"
-  email            : "Jiwen@filll.cn"
+  email            : "zhaojiwen@yzwlab.cn"
   researchgate     : "https://www.researchgate.net/profile/Jiwen-Zhao-3"
-  uri              : "www.filll.cn"
+  uri              : "https://www.filll.cn"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "https://github.com/CropCoder"
+  github           : "CropCoder"
   google_plus      :
   keybase          :
   instagram        : 
