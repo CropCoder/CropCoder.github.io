@@ -17,10 +17,35 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Wheat is one of the most important food crops. In recent
+years, factors such as global warming have led to the fre-
+quent occurrence of extreme weather, altering the epi-
+demic patterns of crop diseases and pests and posing
+severe challenges to food security (Savary et al. 2019).
+Wheat yellow rust (YR), also known as stripe rust, is
+caused by the biotrophic fungus Puccinia striiformis
+Westend f. sp. tritici (Pst) and remains one of the most
+devastating diseases threatening global wheat produc-
+tion (Chen 2020; Hovmøller et al. 2023). Genetic resist-
+ance breeding has emerged as the most economical and
+environmentally sustainable approach to the control
+YR.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+![cart](https://jewin.oss-cn-hangzhou.aliyuncs.com/iShot_2025-09-14_16.12.12.png)
 
+Despite these advances, several critical challenges hin-
+der the practical application of resistance loci in breed-
+ing programs. First, the dispersion of valuable genetic
+information across hundreds of publications creates
+significant barriers to accessing and interpreting com-
+prehensive resistance profiles. Second, the complex
+interactions between resistance loci and their variable
+effectiveness against different Pst races remain poorly
+understood. Third, identifying candidate genes within
+QTL regions and analyzing their functions require
+extensive bioinformatics expertise and computational
+resources, which are often inaccessible to many breeding
+programs (Hafeez et al. 2021).
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -28,15 +53,18 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Stress Biology (2025)</div><img src='images/LWRR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[LWRR: Landscape of Wheat Rust Resistance towards practical breeding design](https://doi.org/10.1007/s44154-025-00232-x)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Jiwen Zhao, Haitao Dong, Jinyu Han, Jingrui Ou, Tiantian Chen, Yuze Wang, Shengjie Liu, Rui Yu, Weijun Zheng, Chunlian Li, Zhensheng Kang, Dejun Han, Qingdong Zeng, Xiaojie Wang, Shengwei Ma and Jianhui Wu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This study was financially supported by the National Key R&D Program of China 
+- The data in this article can be publicly accessed on the website platform at LWRR
+- LWRR website: [https://wheat.dftianyi.com](https://wheat.dftianyi.com)
+
+
 </div>
 </div>
 
