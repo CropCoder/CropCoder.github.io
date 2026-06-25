@@ -3,6 +3,7 @@ const nav = document.querySelector("[data-nav]");
 const year = document.querySelector("[data-year]");
 const navLinks = [...document.querySelectorAll(".site-nav a")];
 const sections = navLinks
+  .filter((link) => link.getAttribute("href").startsWith("#"))
   .map((link) => {
     const id = link.getAttribute("href").slice(1);
     const anchor = document.getElementById(id);
@@ -29,6 +30,10 @@ if (navToggle && nav) {
 }
 
 const setActiveLink = () => {
+  if (!sections.length) {
+    return;
+  }
+
   const current = sections
     .filter((section) => section.anchor.getBoundingClientRect().top <= 120)
     .pop();
